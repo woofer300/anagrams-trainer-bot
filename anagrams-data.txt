@@ -1,0 +1,126 @@
+1. TARMACS
+    Possible points: 64200
+    Number of words: 100
+    Seven letter words: 3
+        [AMTRACS, RAMCATS, TARMACS]
+    Six letter words: 5
+        [AMTRAC, CARATS, CARTAS, RAMCAT, TARMAC]
+    Five letter words: 21
+        [ATMAS, CAMAS, CARAT, CARTA, CARTS, CRAMS, MAARS, MACAS, MARAS, MARCS, MARTS, RASTA, RATAS, SACRA, SCART, SCRAM, SCRAT, SMART, TARAS, TASAR, TRAMS]
+2. SERMONS
+    Possible points: 77700
+    Number of words: 116
+    Seven letter words: 1
+        [SERMONS]
+    Six letter words: 11
+        [MESONS, MORNES, MORSES, MOSSER, NOSERS, SENORS, SENSOR, SERMON, SERONS, SMORES, SNORES]
+    Five letter words: 27
+        [ENORM, MESON, MOERS, MONER, MORES, MORNE, MORNS, MORSE, MOSES, NOMES, NORMS, NOSER, NOSES, OMENS, OMERS, ONERS, RENOS, RONES, ROSES, SENOR, SERON, SMORE, SNORE, SONES, SONSE, SORES, SORNS]
+3. CRUMPET
+    Possible points: 38900
+    Number of words: 79
+    Seven letter words: 1
+        [CRUMPET]
+    Six letter words: 2
+        [PRECUT, RECTUM]
+    Five letter words: 15
+        [CREPT, CRUET, CRUMP, CURET, CUTER, ERUCT, ERUPT, MPRET, MUTER, PUCER, RECUT, TRUCE, TRUMP, TURME, UPTER]
+4. SHAPERS
+    Possible points: 151500
+    Number of words: 172
+    Seven letter words: 7
+        [PHASERS, PHRASES, SERAPHS, SHAPERS, SHERPAS, SPHAERS, SPHEARS]
+    Six letter words: 26
+        [ASPERS, HEPARS, PARSES, PASHES, PASSER, PHARES, PHASER, PHASES, PHRASE, PRASES, RAPHES, RASHES, REPASS, SERAPH, SHAPER, SHAPES, SHARES, SHARPS, SHEARS, SHERPA, SPAERS, SPARES, SPARSE, SPEARS, SPHAER, SPHEAR]
+    Five letter words: 44
+        [APERS, APRES, APSES, ARSES, ASHES, ASPER, EPHAS, HARES, HARPS, HASPS, HEAPS, HEARS, HEPAR, HESPS, PARES, PARSE, PASES, PASSE, PEARS, PHARE, PHASE, PRASE, PRESA, PRESS, RAPES, RAPHE, RASES, RASPS, RASSE, REAPS, RHEAS, SASER, SEARS, SHAPE, SHAPS, SHARE, SHARP, SHEAR, SHEAS, SPAER, SPAES, SPARE, SPARS, SPEAR]
+5. GABLETS
+    Possible points: 128600
+    Number of words: 205
+    Seven letter words: 1
+        [GABLETS]
+    Six letter words: 13
+        [ABLEST, ABLETS, AGLETS, BAGELS, BASTLE, BELGAS, BLAEST, BLATES, BLEATS, GABLES, GABLET, STABLE, TABLES]
+    Five letter words: 50
+        [ABETS, ABLES, ABLET, AGLET, BAELS, BAGEL, BALES, BASTE, BATES, BEALS, BEAST, BEATS, BEGAT, BELGA, BELTS, BESAT, BETAS, BLAES, BLAGS, BLASE, BLAST, BLATE, BLATS, BLEAT, BLEST, BLETS, GABLE, GALES, GATES, GEALS, GEATS, GELTS, GETAS, GLEBA, LEAST, LEATS, SABLE, SALET, SETAL, SLATE, STAGE, STALE, STEAL, STELA, TABES, TABLE, TAELS, TALES, TEALS, TESLA]
+6. BECKING
+    Possible points: 19400
+    Number of words: 50
+    Seven letter words: 1
+        [BECKING]
+    Six letter words: 0
+        []
+    Five letter words: 5
+        [BEGIN, BEING, BINGE, EKING, GENIC]
+7. CAMBOGE
+    Possible points: 26000
+    Number of words: 72
+    Seven letter words: 1
+        [CAMBOGE]
+    Six letter words: 1
+        [BOCAGE]
+    Five letter words: 7
+        [CAMEO, COMAE, COMBE, EMBOG, GAMBE, GAMBO, OMEGA]
+8. UPROUSE
+    Possible points: 55300
+    Number of words: 96
+    Seven letter words: 2
+        [POURSUE, UPROUSE]
+    Six letter words: 4
+        [POSEUR, PURSUE, SOUPER, UPROSE]
+    Five letter words: 19
+        [EUROS, PORES, POSER, POURS, PROSE, PUERS, PURES, PURSE, REPOS, ROPES, ROUES, ROUPS, ROUSE, SPORE, SPRUE, SPUER, SUPER, USURE, USURP]
+9. SINCERE
+    Possible points: 91500
+    Number of words: 115
+    Seven letter words: 3
+        [CERESIN, SCRIENE, SINCERE]
+    Six letter words: 14
+        [CENSER, CERISE, CERNES, CRINES, NEREIS, NIECES, RENIES, SCERNE, SCREEN, SCRINE, SECERN, SEINER, SEREIN, SERINE]
+    Five letter words: 30
+        [CENSE, CERES, CERNE, CINES, CIRES, CREES, CRIES, CRINE, CRISE, ERICS, ERNES, ICERS, NICER, NIECE, REENS, REINS, RESIN, RICES, RINES, RINSE, RISEN, SCENE, SCREE, SEINE, SERIC, SERIN, SINCE, SIREE, SIREN, SNEER]
+10. CHALLIS
+    Possible points: 50900
+    Number of words: 83
+    Seven letter words: 1
+        [CHALLIS]
+    Six letter words: 5
+        [CHILLS, LAICHS, LILACS, SCILLA, SHALLI]
+    Five letter words: 19
+        [ALLIS, CALLS, CHAIS, CHALS, CHIAS, CHILL, CILLS, CLASH, HAILS, HALLS, HILLS, LAICH, LAICS, LILAC, SALIC, SCAIL, SCALL, SHALL, SHILL]
+11. RIOTING
+    Possible points: 43900
+    Number of words: 72
+    Seven letter words: 2
+        [IGNITOR, RIOTING]
+    Six letter words: 5
+        [ORIGIN, ROTING, ROTINI, TIRING, TRIGON]
+    Five letter words: 11
+        [GIRON, GRIOT, GROIN, INGOT, INTRO, IRING, NITRO, TIGON, TOING, TORII, TRIGO]
+12. WOBBLER
+    Possible points: 35000
+    Number of words: 61
+    Seven letter words: 1
+        [WOBBLER]
+    Six letter words: 4
+        [BLOWER, BOWLER, LOBBER, WOBBLE]
+    Five letter words: 11
+        [BELOW, BEROB, BLORE, BOREL, BOWEL, BOWER, ELBOW, LOWER, OWLER, ROBLE, ROWEL]
+13. CAPPING
+    Possible points: 18500
+    Number of words: 43
+    Seven letter words: 1
+        [CAPPING]
+    Six letter words: 2
+        [CAPING, PACING]
+    Five letter words: 3
+        [ACING, APING, PANIC]
+14. AUTOCAR
+    Possible points: 35100
+    Number of words: 72
+    Seven letter words: 2
+        [ACATOUR, AUTOCAR]
+    Six letter words: 2
+        [CUATRO, TURACO]
+    Five letter words: 9
+        [ACTOR, AORTA, CARAT, CARTA, COURT, COUTA, CROUT, CURAT, TAROC]

@@ -12,6 +12,7 @@ public class Main {
     public static ArrayList<String> sixLetterWords = new ArrayList<>();
     public static ArrayList<String> sevenLetterWords = new ArrayList<>();
 
+    public static int wordEntries = 0;
     public static String characters;
 
     public static void main(String[] args) {
@@ -143,16 +144,16 @@ public class Main {
                     System.out.println("Please enter a word to store the data entry as.");
                     String dataEntryTitle = inputScanner.nextLine();
                     if (new AnagramsCharacterList(dataEntryTitle).equals(new AnagramsCharacterList(characters))) {
-                        anagramsDataWriter.write(dataEntryTitle.toUpperCase() + "\n");
+                        anagramsDataWriter.write((wordEntries + 1) + ". " + dataEntryTitle.toUpperCase() + "\n");
                         break;
                     } else {
                         System.out.println("The word you entered is not a spelling of the original characters entered.");
                     }
                 }
             } else if (sevenLetterWords.size() == 1) {
-                anagramsDataWriter.write(sevenLetterWords.get(0) + "\n");
+                anagramsDataWriter.write((wordEntries + 1) + ". " + sevenLetterWords.get(0) + "\n");
             } else {
-                anagramsDataWriter.write(characters.toUpperCase() + "\n");
+                anagramsDataWriter.write((wordEntries + 1) + ". " + characters.toUpperCase() + "\n");
             }
             anagramsDataWriter.write("    Possible points: " + totalPoints + "\n");
             anagramsDataWriter.write("    Number of words: " + totalWords + "\n");
@@ -183,9 +184,14 @@ public class Main {
             AnagramsCharacterList inputWordCharList = new AnagramsCharacterList(inputWord);
             while (anagramsDataScanner.hasNextLine()) {
                 String currentLine = anagramsDataScanner.nextLine();
-                if (currentLine.length() == 7) {
-                    AnagramsCharacterList currentAnagramsCharList = new AnagramsCharacterList(currentLine);
-                    if (currentAnagramsCharList.equals(inputWordCharList)) return true;
+                String[] splitLine = currentLine.split(" ");
+                if (splitLine.length == 2) {
+                    String currentWord = splitLine[1];
+                    if (currentWord.length() == 7) {
+                        wordEntries++;
+                        AnagramsCharacterList currentAnagramsCharList = new AnagramsCharacterList(currentWord);
+                        if (currentAnagramsCharList.equals(inputWordCharList)) return true;
+                    }
                 }
             }
         } catch (Exception e) {
