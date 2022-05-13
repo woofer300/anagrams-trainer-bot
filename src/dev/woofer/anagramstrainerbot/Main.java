@@ -15,7 +15,7 @@ public class Main {
     public static String characters;
 
     public static void main(String[] args) {
-        File anagramsWords = new File("/Users/chris/Documents/IdeaProjects/AnagramsTrainerBot/anagrams-words.txt");
+        File anagramsWords = new File("/Users/chris/Documents/IdeaProjects/anagrams-trainer-bot/anagrams-words.txt");
         try {
             Scanner anagramsWordsScanner = new Scanner(anagramsWords);
             Scanner inputScanner = new Scanner(System.in);
@@ -128,7 +128,7 @@ public class Main {
 
     public static void saveData() {
         try {
-            File anagramsData = new File("/Users/chris/Documents/IdeaProjects/AnagramsTrainerBot/anagrams-data.txt");
+            File anagramsData = new File("/Users/chris/Documents/IdeaProjects/anagrams-trainer-bot/anagrams-data.txt");
             Scanner inputScanner = new Scanner(System.in);
             FileWriter anagramsDataWriter = new FileWriter(anagramsData, true);
             int sevenLetterPoints = sevenLetterWords.size() * 3000;
@@ -178,7 +178,7 @@ public class Main {
 
     public static boolean dataContainsSpellingOfWord(String inputWord) {
         try {
-            File anagramsData = new File("/Users/chris/Documents/IdeaProjects/AnagramsTrainerBot/anagrams-data.txt");
+            File anagramsData = new File("/Users/chris/Documents/IdeaProjects/anagrams-trainer-bot/anagrams-data.txt");
             Scanner anagramsDataScanner = new Scanner(anagramsData);
             AnagramsCharacterList inputWordCharList = new AnagramsCharacterList(inputWord);
             while (anagramsDataScanner.hasNextLine()) {
